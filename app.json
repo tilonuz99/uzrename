@@ -1,32 +1,9 @@
 {
   "name": "uzrename",
   "description": "Fayllarni qayta nomlash",
-  "keywords": [
-    "telegram",
-    "best",
-    "youtube",
-    "downloader",
-    "open",
-    "source",
-    "multi",
-    "madeline",
-    "ffmpeg",
-    "remote",
-    "uploader"
-  ],
   "success_url": "https://telegram.dog/uzfilerbot",
-  "website": "https://github.com/teleuz99/uzrename",
+  "website": "https://github.com/tillouz99/uzrename",
   "repository": "https://github.com/tillouz99/uzrename",
-  "env": {
-    "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
-    },
-    "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
-    }
-  },
   "addons": [
   ],
   "buildpacks": [{
